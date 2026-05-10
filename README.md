@@ -1,9 +1,12 @@
 <div align="center">
 
 <!-- ══ BANNER ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Bienvenido+al+Github+de+Steven+%3C%2F%3E;Full+Stack+Developer;Barranquilla%2C+Colombia" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Convierto%20ideas%20en%20software%20real%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
 
 <img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
+
+<h2>Hola 👋, soy Steven</h2>
+<p>Desarrollador Full Stack especializado en llevar ideas de cero a producción.<br/>Sistemas POS · SaaS · Plataformas web · Barranquilla, Colombia 🇨🇴</p>
 
 <!-- ══ SOCIAL LINKS ══ -->
 
