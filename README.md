@@ -10,10 +10,10 @@
 
 <!-- ══ SOCIAL LINKS ══ -->
 
-[![Gmail](https://img.shields.io/badge/GMAIL-555?style=flat-square&logo=gmail&logoColor=white)](mailto:stevenbaussamz@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555?style=flat-square&logo=vercel&logoColor=white)](https://stevenbaussa.ct.ws/)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-555?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573009626009)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenbaussa)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stevenbaussamz@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white)](https://stevenbaussa.ct.ws/)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573009626009)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenbaussa)
 
 <br/>
 
