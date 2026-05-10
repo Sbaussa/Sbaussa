@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- ══ BANNER ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=180&text=Bienvenido%20al%20Github%20de%20Steven%20%3C/%3E&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20Barranquilla%2C%20Colombia&descSize=16&descAlignY=68&fontAlignY=45" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Bienvenido+al+Github+de+Steven+%3C%2F%3E;Full+Stack+Developer;Barranquilla%2C+Colombia" alt="Typing SVG" />
 
-<img src="https://github.com/Sbaussa/Sbaussa/blob/main/baussa.png?raw=true" width="130" alt="Steven Baussa" />
+<img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
 
 <!-- ══ SOCIAL LINKS ══ -->
 
@@ -154,7 +154,6 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" />
 
 ```bash
 $ git log --oneline --author="Steven Baussa" | head -1
