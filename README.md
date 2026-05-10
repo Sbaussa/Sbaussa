@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ══ BANNER ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Convierto%20ideas%20en%20software%20real%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Turning%20ideas%20into%20real%20software%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
 
 <img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
 
-<h2>Hola 👋, soy Steven</h2>
-<p>Desarrollador Full Stack especializado en llevar ideas de cero a producción.<br/>Sistemas POS · SaaS · Plataformas web · Barranquilla, Colombia 🇨🇴</p>
+<h2>Hey there 👋, I'm Steven</h2>
+<p>Full Stack Developer specialized in taking ideas from zero to production.<br/>POS Systems · SaaS · Web Platforms · Barranquilla, Colombia 🇨🇴</p>
 
 <!-- ══ SOCIAL LINKS ══ -->
 
 [![Gmail](https://img.shields.io/badge/GMAIL-555?style=flat-square&logo=gmail&logoColor=white)](mailto:stevenbaussamz@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555?style=flat-square&logo=vercel&logoColor=white)](https://stevenbaussa.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-555?style=flat-square&logo=vercel&logoColor=white)](https://stevenbaussa.ct.ws/)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-555?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573009626009)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevenbaussa)
 
@@ -21,29 +21,29 @@
 
 ---
 
-<!-- ══ SOBRE MÍ ══ -->
+<!-- ══ ABOUT ME ══ -->
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About me
 
-Hola! Soy **Steven Baussa Mendoza**, desarrollador Full Stack de Barranquilla, Colombia.
-Me especializo en construir aplicaciones web escalables con React, Node.js y PostgreSQL,
-enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
+Hey! I'm **Steven Baussa Mendoza**, a Full Stack Developer from Barranquilla, Colombia.
+I specialize in building scalable web applications with React, Node.js and PostgreSQL,
+focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
-- 🎓 &nbsp;Estudiando **Ingeniería de Sistemas** en la Universidad de la Costa
-- 💼 &nbsp;Fundador de **Baussa** — software a medida para negocios colombianos
-- 🔧 &nbsp;Director de **Junior Technical Service**, taller de electrónica
-- 🚀 &nbsp;Actualmente construyendo **ClipManager**, SaaS para barberías
-- ⚡ &nbsp;Apasionado por arquitectura limpia y buena experiencia de usuario
+- 🎓 &nbsp;Studying **Systems Engineering** at Universidad de la Costa
+- 💼 &nbsp;Founder of **Baussa** — custom software for Colombian businesses
+- 🔧 &nbsp;Director of **Junior Technical Service**, electronics repair shop
+- 🚀 &nbsp;Currently building **ClipManager**, a SaaS for barbershops
+- ⚡ &nbsp;Passionate about clean architecture and great user experience
 
-<br clear="right"/>
+<br/>
 
 ---
 
-<!-- ══ TECNOLOGÍAS ══ -->
+<!-- ══ TECHNOLOGIES ══ -->
 
-### 💻 Tecnologías
+### 💻 Technologies
 
-**Lenguajes**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -70,13 +70,13 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Otros**
+**Others**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
@@ -87,45 +87,45 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 
 ---
 
-<!-- ══ PROYECTOS ══ -->
+<!-- ══ PROJECTS ══ -->
 
-### 🚀 Proyectos
+### 🚀 Projects
 
-**🍽️ Baratón Suite** &nbsp;—&nbsp; POS para Restaurante `Jun 2025`
+**🍽️ Baratón Suite** &nbsp;—&nbsp; Restaurant POS `Jun 2025`
 
-> Plataforma que centraliza pedidos de mesa, para llevar y domicilio en un solo sistema. Cocina, cajeros, meseros y repartidores sincronizados en tiempo real con impresión térmica ESC/POS.
+> Platform that centralizes table, takeaway and delivery orders in one system. Kitchen, cashiers, waiters and delivery staff synced in real time with ESC/POS thermal printing.
 >
 > `Node.js` `Express` `Prisma` `PostgreSQL` `React` `Vite` `Socket.io` `JWT`
 
 ---
 
-**✂️ ClipManager** &nbsp;—&nbsp; SaaS para Barberías `Mar 2026`
+**✂️ ClipManager** &nbsp;—&nbsp; SaaS for Barbershops `Mar 2026`
 
-> SaaS multi-tenant con reservas online, ventas, inventario, comisiones y caja. Mapa de locales cercanos y control multi-sucursal para planes premium. Pagos con Stripe y MercadoPago.
+> Multi-tenant SaaS with online booking, sales, inventory, commissions and cash register. Nearby shop map and multi-branch control for premium plans. Payments via Stripe and MercadoPago.
 >
 > `Node.js` `React` `Multi-tenant` `JWT` `Stripe` `MercadoPago`
 
 ---
 
-**🎮 DakyShop** &nbsp;—&nbsp; E-commerce Gamer · Daky SAS `Feb 2026`
+**🎮 DakyShop** &nbsp;—&nbsp; Gaming E-commerce · Daky SAS `Feb 2026`
 
-> Tienda para armado y compra de computadores gamer. Configurador inteligente que valida compatibilidad, carrito con precios automáticos y gestión de inventario en tiempo real.
+> Web store for building and buying gaming computers. Smart configurator that validates component compatibility, cart with automatic pricing and real-time inventory management.
 >
 > `React` `Node.js` `PostgreSQL` `Prisma` `JWT` `TailwindCSS`
 
 ---
 
-**🔧 Junior Technical Service** &nbsp;—&nbsp; Plataforma de Taller `May 2026`
+**🔧 Junior Technical Service** &nbsp;—&nbsp; Repair Shop Platform `May 2026`
 
-> Sistema que organiza el flujo completo de un taller de electrónica. Los clientes rastrean su equipo online mientras el negocio controla órdenes e ingresos en tiempo real. En producción activa.
+> System that manages the full flow of an electronics repair shop. Clients track their device online while the business controls orders and revenue in real time. Actively in production.
 >
 > `Node.js` `Prisma` `PostgreSQL` `React` `Vite` `Zustand` `Socket.io`
 
 ---
 
-<!-- ══ ESTADÍSTICAS ══ -->
+<!-- ══ STATISTICS ══ -->
 
-### 📊 Estadísticas
+### 📊 Statistics
 
 <div align="center">
 
@@ -145,9 +145,9 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 
 ---
 
-<!-- ══ GRÁFICA DE CONTRIBUCIONES ══ -->
+<!-- ══ CONTRIBUTION GRAPH ══ -->
 
-### 📈 Gráfica de contribuciones
+### 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbaussa&bg_color=1a1b27&color=ffffff&line=f97316&point=f97316&area=true&hide_border=true" width="100%" />
@@ -159,7 +159,6 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 
 <div align="center">
 
-
 ```bash
 $ git log --oneline --author="Steven Baussa" | head -1
 # a8f3c21 feat: another problem solved, another system shipped 🚀
@@ -167,8 +166,14 @@ $ git log --oneline --author="Steven Baussa" | head -1
 
 <sub>
   <code>stevenbaussamz@gmail.com</code> &nbsp;·&nbsp;
-  <code>stevenbaussa.com</code> &nbsp;·&nbsp;
+  <code>stevenbaussa.ct.ws</code> &nbsp;·&nbsp;
   <code>Barranquilla, Colombia</code>
 </sub>
+
+<br/><br/>
+
 <img src="https://github.com/Sbaussa/Sbaussa/blob/main/baussa.png?raw=true" width="130" alt="Steven Baussa" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+
 </div>
