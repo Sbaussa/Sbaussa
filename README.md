@@ -159,11 +159,6 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 <div align="center">
 
-```bash
-$ git log --oneline --author="Steven Baussa" | head -1
-# a8f3c21 feat: another problem solved, another system shipped 🚀
-```
-
 <sub>
   <code>stevenbaussamz@gmail.com</code> &nbsp;·&nbsp;
   <code>stevenbaussa.ct.ws</code> &nbsp;·&nbsp;
