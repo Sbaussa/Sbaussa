@@ -3,7 +3,7 @@
 <!-- ══ BANNER ══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Convierto%20ideas%20en%20software%20real%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
 
-<img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
+<img src="https://github.com/Sbaussa/Sbaussa/blob/main/baussa.png?raw=true" width="130" alt="Steven Baussa" />
 
 <h2>Hola 👋, soy Steven</h2>
 <p>Desarrollador Full Stack especializado en llevar ideas de cero a producción.<br/>Sistemas POS · SaaS · Plataformas web · Barranquilla, Colombia 🇨🇴</p>
@@ -131,13 +131,13 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sbaussa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sbaussa&theme=tokyonight&hide_border=true&locale=es" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sbaussa&theme=tokyonight&hide_border=true" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbaussa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sbaussa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbaussa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="160" />
 
 </div>
 
@@ -148,7 +148,7 @@ enfocado en sistemas POS, SaaS multi-tenant y plataformas en producción.
 ### 📈 Gráfica de contribuciones
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbaussa&theme=tokyo-night&hide_border=true&area=true&area_color=f97316&line=f97316&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbaussa&bg_color=1a1b27&color=ffffff&line=f97316&point=f97316&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
