@@ -3,7 +3,7 @@
 <!-- ══ BANNER ══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Convierto%20ideas%20en%20software%20real%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
 
-<img src="https://github.com/Sbaussa/Sbaussa/blob/main/baussa.png?raw=true" width="130" alt="Steven Baussa" />
+<img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
 
 <h2>Hola 👋, soy Steven</h2>
 <p>Desarrollador Full Stack especializado en llevar ideas de cero a producción.<br/>Sistemas POS · SaaS · Plataformas web · Barranquilla, Colombia 🇨🇴</p>
@@ -170,5 +170,5 @@ $ git log --oneline --author="Steven Baussa" | head -1
   <code>stevenbaussa.com</code> &nbsp;·&nbsp;
   <code>Barranquilla, Colombia</code>
 </sub>
-
+<img src="https://github.com/Sbaussa/Sbaussa/blob/main/baussa.png?raw=true" width="130" alt="Steven Baussa" />
 </div>
