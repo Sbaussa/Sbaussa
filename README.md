@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=180&text=Bienvenido%20al%20Github%20de%20Steven%20%3C/%3E&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20Barranquilla%2C%20Colombia&descSize=16&descAlignY=68&fontAlignY=45" />
-<img src="https://raw.githubusercontent.com/Sbaussa/Sbaussa/main/baussa.png" width="100" alt="Steven Baussa" />
+<img src="https://raw.githubusercontent.com/Sbaussa/Sbaussa/main/logo.png" width="100" alt="Steven Baussa" />
 <br/>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-555?style=flat-square&logo=gmail&logoColor=white)](mailto:stevenbaussamz@gmail.com)&nbsp;
