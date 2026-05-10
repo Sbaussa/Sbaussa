@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ══ BANNER ══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Steven%20Baussa%20Mendoza&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Turning%20ideas%20into%20real%20software%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=56&descColor=ffffff" />
 
 <img src="https://github.com/Sbaussa/Sbaussa/blob/main/logo.png?raw=true" width="130" alt="Steven Baussa" />
@@ -8,7 +7,6 @@
 <h2>Hey there 👋, I'm Steven</h2>
 <p>Full Stack Developer specialized in taking ideas from zero to production.<br/>POS Systems · SaaS · Web Platforms · Barranquilla, Colombia 🇨🇴</p>
 
-<!-- ══ SOCIAL LINKS ══ -->
 
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stevenbaussamz@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white)](https://stevenbaussa.ct.ws/)&nbsp;
@@ -21,7 +19,6 @@
 
 ---
 
-<!-- ══ ABOUT ME ══ -->
 
 ### 🧑‍💻 About me
 
@@ -39,7 +36,6 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 ---
 
-<!-- ══ TECHNOLOGIES ══ -->
 
 ### 💻 Technologies
 
@@ -87,7 +83,6 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 ---
 
-<!-- ══ PROJECTS ══ -->
 
 ### 🚀 Projects
 
@@ -123,7 +118,6 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 ---
 
-<!-- ══ STATISTICS ══ -->
 
 ### 📊 Statistics
 
@@ -145,7 +139,6 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 ---
 
-<!-- ══ CONTRIBUTION GRAPH ══ -->
 
 ### 📈 Contribution Graph
 
@@ -155,14 +148,9 @@ focused on POS systems, multi-tenant SaaS and production-ready platforms.
 
 ---
 
-<!-- ══ FOOTER ══ -->
 
 <div align="center">
 
-```bash
-$ git log --oneline --author="Steven Baussa" | head -1
-# a8f3c21 feat: another problem solved, another system shipped 🚀
-```
 
 <sub>
   <code>stevenbaussamz@gmail.com</code> &nbsp;·&nbsp;
